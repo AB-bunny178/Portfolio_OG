@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import Image from '../../assets/avatar-2.svg';
+import Image from '../../assets/profile1.png';
 import Resume from '../../assets/resume.pdf';
 import AboutBox from './AboutBox';
 
@@ -20,23 +20,23 @@ const About = () => {
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">
-                            Hello! I'm Greg, and I'm based in Johannesburg, South Africa. I studied at Varisty College Sandton, where I completed my diploma in Software Development.<br /><br />
+                            Hello! I'm PramodKumar, Im an Web developer and UiUx Designer , I studied at Kakatiya instute of technology and science at Warangal, where I completed my Graduation in Software Development.<br /><br />
                             Fastforward to today, and I can honestly say it's been a beautiful journery and I hope to grow even further as Software Engineer. My current focus these days
-                            is on expanidng my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br /><br />
+                            is on expanidng my portfolio by building more projects that I can add on here, And seeking for great collaboration with comapanies.<br /><br />
                             Here are a few technologies I’ve been working with recently:
                         </p>
                         <ul className="about__list">
                             <li>JavaScript (ES6+)</li>
-                            <li>TypeScript</li>
+                            <li>Python</li>
                             <li>React</li>
-                            <li>Node.js</li>
-                            <li>Postgres SQL</li>
-                            <li>NestJS</li>
+                            <li>MongoDB</li>
+                            <li>SQL</li>
+                            <li>UIUX</li>
                         </ul>
                         <button className="btn" onClick={downloadResume}>Donwload CV</button>
                     </div>
 
-                    {/* <div className="about__skills grid">
+                    <div className="about__skills grid">
                         <div className="skills__data">
                             <div className="skills__titles">
                                 <h3 className="skills__name">Development</h3>
@@ -66,7 +66,7 @@ const About = () => {
                         <div className="skills__data">
                             <div className="skills__titles">
                                 <h3 className="skills__name">Photography</h3>
-                                <span className="skills__number">60%</span>
+                                <span className="skills__number">80%</span>
                             </div>
 
                             <div className="skills__bar">
@@ -75,7 +75,7 @@ const About = () => {
                                 </span>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
                 </div>
             </div>
 

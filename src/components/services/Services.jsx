@@ -22,9 +22,9 @@ const data = [
     {
         id: 3,
         image: Image3,
-        title: "Mobile Development",
+        title: "UIUX Design",
         description:
-            "Ensuring that a mobile app meets the correct standards, and also ensuring it's well maintained",
+            "Ensuring that a digital product follows design principles and accessibility standards, and also maintaining a consistent, intuitive user experience over time.",
     },
 ];
 

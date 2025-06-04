@@ -1,8 +1,8 @@
 const WorkExperience = [
     {
         id: 1,
-        title: "Software Engineer",
-        company: "Kurtosys",
+        title: "Web Development",
+        company: "Fiverr",
         yearsActive: "January 2022 - Present",
         information: [
             "Write modern, performant, maintainable code for a diverse array of internal projects",
@@ -11,9 +11,9 @@ const WorkExperience = [
     },
     {
         id: 2,
-        title: "Junior Software Developer",
-        company: "Entrostat",
-        yearsActive: "May 2017 - December 2021",
+        title: "Web Designer UI/UX",
+        company: "Fiverr",
+        yearsActive: "May 2025 - Present",
         information: [
             "Improved and optimized the company's website for a seamless customer experience",
             "Created, communicated, and managed project plans & project timelines",
@@ -22,19 +22,19 @@ const WorkExperience = [
     },
     {
         id: 3,
-        title: "Junior Software Developer",
-        company: "Empire State",
-        yearsActive: "Feburary 2016 - April 2017",
+        title: "Fullstack Intern",
+        company: "Robokwik",
+        yearsActive: "June 2025 - July 2025",
         information: [
-            "Planned, developed, tested, deployed, and maintained web applications and mobile applications",
-            "Worked well independently and on a team to solve problems."
+            "Planned, developed, tested, deployed, and maintained web applications",
+            "Served as a dedicated and supportive Intern in a fast-paced environment."
         ],
     },
     {
         id: 4,
-        title: "Software Development Intern",
-        company: "The Digital Academy",
-        yearsActive: "Novembe 2015 - January 2016",
+        title: "UIUX Designer Intern",
+        company: "Motioncut",
+        yearsActive: "June 2025 - July 2025",
         information: [
             "Served as a dedicated and supportive Intern in a fast-paced environment",
             "Worked to solve complex problems using the latest in Mobile and Web Technologies.",
@@ -42,25 +42,27 @@ const WorkExperience = [
     },
     {
         id: 5,
-        title: "IT Support Assistant",
-        company: "Varsity College",
-        yearsActive: "February 2015 - May 2015",
+        title: "Mern-stack Intern",
+        company: "Kakatiya institute of technology and science",
+        yearsActive: "June 2025 - June 2025",
         information: [
-            "Worked to support the senior support staff with day-to-day tasks.",
-            "Assisted with the evaluation and troubleshooting of hardware and software issues.",
-            "Maintaining computer Inventory & surplus equipment."
+            "Led a team of interns in developing full-stack web applications using the MERN stack.",
+             "Collaborated with team members to plan, assign, and review coding tasks during the project lifecycle.",
+              "Assisted with troubleshooting and optimizing frontend and backend components for better performance and scalability."
+
+
         ],
     },
-    {
-        id: 6,
-        title: "Student Ambassador",
-        company: "Varsity College",
-        yearsActive: "December 2014 - February 2015",
-        information: [
-            "Monitored registration for all prospective student",
-            "Assisted parents and prospective student with necessary registration details",
-        ],
-    },
+    // {
+    //     // id: 6,
+    //     // title: "Student Ambassador",
+    //     // company: "",
+    //     // yearsActive: "December 2014 - February 2015",
+    //     // information: [
+    //     //     "Monitored registration for all prospective student",
+    //     //     "Assisted parents and prospective student with necessary registration details",
+    //     ],
+    // },
 ];
 
 export default WorkExperience;
