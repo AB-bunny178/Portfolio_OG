@@ -9,15 +9,15 @@ const Menu = [
 		image: Work1,
 		title: "Code-Editor",
 		category: ["Frontend"],
-		// repositoryUrl: "https://github.com/GregSithole/react-native-jobs"
+		repositoryUrl: "https://ab-bunny178.github.io/code-editor/"
 	},
 	{
 		id: 2,
 		image: Work2,
-		title: "Movies-Recommendor application",
-		category: ["Fullstack","Python"],
+		title: "Budget Tracker",
+		category: ["Frontend"],
 		// url: "https://cryptoverse.gregsithole.com",
-		// repositoryUrl: "https://github.com/GregSithole/crypto-app"
+		 repositoryUrl: "https://ab-bunny178.github.io/code-editor/"
 	},
 	{
 		id: 3,
@@ -25,7 +25,7 @@ const Menu = [
 		title: "Weather Forecast",
 		category: ["Fullstack","Python"],
 		// url: "https://travel.gregsithole.com",
-		// repositoryUrl: "https://github.com/GregSithole/travel-advisor"
+		 repositoryUrl: "https://weatherapp-hxrrhk7j45rswms2w59aa4.streamlit.app/"
 	},
 	{
 		id: 4,
