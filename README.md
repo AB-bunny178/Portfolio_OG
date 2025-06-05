@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
   <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
+  <img src="./src/assets/light-logo.svg" alt="Pramodkumar" width="200"></a>
   <br>
-  Greg Sithole's Personal Website
+  PramodKumar Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Greg Sithole</a>.</h4>
+<h4 align="center">A simple personal website about <a href="https://portfolio-og-nine.vercel.app/" target="_blank">Greg Sithole</a>.</h4>
 
 <br>
 
