@@ -17,7 +17,7 @@ const Menu = [
 		title: "Budget Tracker",
 		category: ["Frontend"],
 		// url: "https://cryptoverse.gregsithole.com",
-		 repositoryUrl: "https://ab-bunny178.github.io/code-editor/"
+		repositoryUrl: "https://ab-bunny178.github.io/budget_tracker/"
 	},
 	{
 		id: 3,
@@ -25,7 +25,7 @@ const Menu = [
 		title: "Weather Forecast",
 		category: ["Fullstack","Python"],
 		// url: "https://travel.gregsithole.com",
-		 repositoryUrl: "https://weatherapp-hxrrhk7j45rswms2w59aa4.streamlit.app/"
+		repositoryUrl: "https://weatherapp-hxrrhk7j45rswms2w59aa4.streamlit.app/"
 	},
 	{
 		id: 4,
