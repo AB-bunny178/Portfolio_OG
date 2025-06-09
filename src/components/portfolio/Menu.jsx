@@ -14,10 +14,17 @@ const Menu = [
 	{
 		id: 2,
 		image: Work2,
+<<<<<<< HEAD
 		title: "Budget-tracker",
 		category: ["Frontend"],
 		// url: "https://cryptoverse.gregsithole.com",
 		 repositoryUrl: "https://ab-bunny178.github.io/budget_tracker/"
+=======
+		title: "Budget Tracker",
+		category: ["Frontend"],
+		// url: "https://cryptoverse.gregsithole.com",
+		repositoryUrl: "https://ab-bunny178.github.io/budget_tracker/"
+>>>>>>> saved-changes
 	},
 	{
 		id: 3,
